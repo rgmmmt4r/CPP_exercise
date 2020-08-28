@@ -1,4 +1,4 @@
-//0829.cpp 宣告方法應用在比三個數中，可以省去很多步驟！
+//0828.cpp 宣告方法應用在比三個數中，可以省去很多步驟！
 #include <iostream>
 
 using namespace std;
