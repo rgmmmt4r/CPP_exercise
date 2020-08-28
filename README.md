@@ -4,5 +4,7 @@
  I use online material to review C++.  
  You may contact me through :https://www.linkedin.com/in/eddie-yen-a99207169/  
  week1: https://github.com/rgmmmt4r/CPP_exercise/tree/master/week1  
+ week2: https://github.com/rgmmmt4r/CPP_exercise/tree/master/week2  
+ 
 
 
