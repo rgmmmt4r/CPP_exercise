@@ -11,6 +11,6 @@
 else 中的 if 與 else if 之間的關係  注意其中的差別  
 0911   
 switch 基本語法複習  
-
-
+0912
+switch 基本語法複習，關於 break 的注意事項     
 
