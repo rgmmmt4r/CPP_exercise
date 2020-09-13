@@ -13,6 +13,5 @@ else 中的 if 與 else if 之間的關係  注意其中的差別
 switch 基本語法複習  
 0912   
 switch 基本語法複習，關於 break 的注意事項  
-0913   
-swith 使用時機： 代號轉換、很多 if(a == b) 重複（可以宣告目前的情況、節省讀code 的時間）  
+
 
