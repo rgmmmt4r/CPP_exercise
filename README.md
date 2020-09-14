@@ -8,6 +8,7 @@
  week3: https://github.com/rgmmmt4r/CPP_exercise/tree/master/week3  
  week4: https://github.com/rgmmmt4r/CPP_exercise/tree/master/week4  
  week5: https://github.com/rgmmmt4r/CPP_exercise/tree/master/week5   
+ 練習了 switch ，包含其使用時機、小練習  
  
  
 
