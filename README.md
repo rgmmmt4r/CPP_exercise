@@ -1,6 +1,6 @@
 # CPP_exercise
  This repo record the process for me to review C++.  
- Starting in  15, August, 2020 , and I record the progess in the weekly folder.  
+ Starting in  15, August, 2020, I record the progess in the weekly folder.  
  I use online material to review C++.  
  You may contact me through :https://www.linkedin.com/in/eddie-yen-a99207169/  
  以下為每週大概的學習內容，點進去後有更詳細的每日進度說明    
