@@ -5,7 +5,8 @@
  You may contact me through :https://www.linkedin.com/in/eddie-yen-a99207169/  
  week1: https://github.com/rgmmmt4r/CPP_exercise/tree/master/week1  
  week2: https://github.com/rgmmmt4r/CPP_exercise/tree/master/week2  
- week3: https://github.com/rgmmmt4r/CPP_exercise/tree/master/week3  
+ week3: “｜｜” 的用法、 else if 基本語法
+ https://github.com/rgmmmt4r/CPP_exercise/tree/master/week3  
  week4: else if 小練習、switch 基本語法複習   
  https://github.com/rgmmmt4r/CPP_exercise/tree/master/week4  
   
