@@ -7,6 +7,7 @@
  week2: https://github.com/rgmmmt4r/CPP_exercise/tree/master/week2  
  week3: https://github.com/rgmmmt4r/CPP_exercise/tree/master/week3  
  week4: https://github.com/rgmmmt4r/CPP_exercise/tree/master/week4  
+ else if 小練習、switch 基本語法複習  
  week5: https://github.com/rgmmmt4r/CPP_exercise/tree/master/week5   
  練習了 switch ，包含其使用時機、小練習  
  
