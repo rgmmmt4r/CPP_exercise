@@ -3,7 +3,7 @@
  Starting in  15, August, 2020 , and I record the progess in the weekly folder.  
  I use online material to review C++.  
  You may contact me through :https://www.linkedin.com/in/eddie-yen-a99207169/  
- 以下為每週大概的學習內容，點進去後有更詳細的每日進度說明
+ 以下為每週大概的學習內容，點進去後有更詳細的每日進度說明    
  week1: 程式基本的東西如：＆＆ ！ ？ 、函式    
  https://github.com/rgmmmt4r/CPP_exercise/tree/master/week1  
  week2: if 的基本語法   
