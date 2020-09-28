@@ -14,7 +14,7 @@
  https://github.com/rgmmmt4r/CPP_exercise/tree/master/week4    
  week5: 練習了 switch ，包含其使用時機、小練習   
  https://github.com/rgmmmt4r/CPP_exercise/tree/master/week5   
- week6: switch 小練習   
+ week6: switch 小練習、while     
  https://github.com/rgmmmt4r/CPP_exercise/tree/master/week6   
  
  
