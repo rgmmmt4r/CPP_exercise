@@ -17,7 +17,9 @@
  week6: switch 小練習、while     
  https://github.com/rgmmmt4r/CPP_exercise/tree/master/week6   
  week7:  
- https://github.com/rgmmmt4r/CPP_exercise/tree/master/week7    
+ https://github.com/rgmmmt4r/CPP_exercise/tree/master/week7  
+ week8:  
+ https://github.com/rgmmmt4r/CPP_exercise/tree/master/week8  
  
  
 
