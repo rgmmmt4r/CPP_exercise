@@ -16,10 +16,10 @@
  https://github.com/rgmmmt4r/CPP_exercise/tree/master/week5   
  week6: switch 小練習、while     
  https://github.com/rgmmmt4r/CPP_exercise/tree/master/week6   
- week7:  
- https://github.com/rgmmmt4r/CPP_exercise/tree/master/week7  
- week8:  
- https://github.com/rgmmmt4r/CPP_exercise/tree/master/week8  
+ week7: 閏年判斷器、while 輸入特定值繼續迴圈、使用while ＋ switch 做成重複輸入的提款機   
+ https://github.com/rgmmmt4r/CPP_exercise/tree/master/week7   
+ week8:   
+ https://github.com/rgmmmt4r/CPP_exercise/tree/master/week8   
  
  
 
