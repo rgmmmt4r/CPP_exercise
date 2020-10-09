@@ -2,6 +2,7 @@
     
 1008   
 for的其他寫法 ，分號間可以空白  
+https://github.com/rgmmmt4r/CPP_exercise/blob/master/week8/1008/1008.cpp    
     
 1009
 ex1009
