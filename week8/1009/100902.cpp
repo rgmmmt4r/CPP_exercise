@@ -1,4 +1,4 @@
-//輸入2數，加總2數之間的數
+//輸入2數，加總2數之間的數，使用for
 #include <iostream>
 using namespace std;
 
@@ -12,3 +12,4 @@ int main(){
 	cout << total << endl;
 	return 0;
 }
+
