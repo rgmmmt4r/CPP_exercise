@@ -1,4 +1,4 @@
-///for 加總 輸入起始值和結束值 加入防呆機制：起始值和結束值輸入相反
+///for 加總 輸入起始值和結束值 加入防呆機制：起始值和結束值輸入相反 寫法二
 #include <iostream>
 using namespace std;
 
