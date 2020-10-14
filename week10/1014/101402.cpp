@@ -1,3 +1,4 @@
+//印出9*9乘法表，並且對齊
 #include <iostream>
 using namespace std;
 
