@@ -1,3 +1,4 @@
+// 各種三角形
 #include <iostream>
 using namespace std;
 
