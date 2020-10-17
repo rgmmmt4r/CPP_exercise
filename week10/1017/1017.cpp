@@ -1,3 +1,4 @@
+//使用do while 寫提款機
 #include <iostream>
 using namespace std;
 
