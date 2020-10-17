@@ -20,7 +20,7 @@
  https://github.com/rgmmmt4r/CPP_exercise/tree/master/week7   
  week8: for的其他寫法  
  https://github.com/rgmmmt4r/CPP_exercise/tree/master/week8   
- week9:  
+ week9: for 加總   
  https://github.com/rgmmmt4r/CPP_exercise/tree/master/week9    
  week10:  
  https://github.com/rgmmmt4r/CPP_exercise/tree/master/week10  
