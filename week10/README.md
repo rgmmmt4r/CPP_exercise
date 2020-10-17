@@ -14,3 +14,8 @@ https://github.com/rgmmmt4r/CPP_exercise/blob/master/week10/1016/1016.cpp
 https://github.com/rgmmmt4r/CPP_exercise/blob/master/week10/1016/101602.cpp    
 跑出來的結果   
 https://github.com/rgmmmt4r/CPP_exercise/blob/master/week10/1016/result-1016.png   
+1017   
+使用do while 寫提款機  
+https://github.com/rgmmmt4r/CPP_exercise/blob/master/week10/1017/1017.cpp    
+https://github.com/rgmmmt4r/CPP_exercise/blob/master/week10/1017/result.png 
+  
