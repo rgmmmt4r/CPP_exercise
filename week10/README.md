@@ -17,5 +17,11 @@ https://github.com/rgmmmt4r/CPP_exercise/blob/master/week10/1016/result-1016.png
 1017   
 使用do while 寫提款機  
 https://github.com/rgmmmt4r/CPP_exercise/blob/master/week10/1017/1017.cpp    
-https://github.com/rgmmmt4r/CPP_exercise/blob/master/week10/1017/result.png 
-  
+https://github.com/rgmmmt4r/CPP_exercise/blob/master/week10/1017/result.png   
+1018      
+while 與 do while 的使用時機比較   
+https://github.com/rgmmmt4r/CPP_exercise/blob/master/week10/1018/1018.cpp    
+break and continue 的使用   
+https://github.com/rgmmmt4r/CPP_exercise/blob/master/week10/1018/101802.cpp      
+利用旗標控制離開巢狀迴圈   
+https://github.com/rgmmmt4r/CPP_exercise/blob/master/week10/1018/101803.cpp      
