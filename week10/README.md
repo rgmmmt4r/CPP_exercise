@@ -23,5 +23,7 @@ while 與 do while 的使用時機比較
 https://github.com/rgmmmt4r/CPP_exercise/blob/master/week10/1018/1018.cpp    
 break and continue 的使用   
 https://github.com/rgmmmt4r/CPP_exercise/blob/master/week10/1018/101802.cpp      
+https://github.com/rgmmmt4r/CPP_exercise/blob/master/week10/1018/101802.png    
 利用旗標控制離開巢狀迴圈   
 https://github.com/rgmmmt4r/CPP_exercise/blob/master/week10/1018/101803.cpp      
+https://github.com/rgmmmt4r/CPP_exercise/blob/master/week10/1018/101803.png     
