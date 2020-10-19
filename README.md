@@ -3,7 +3,8 @@
  Starting in  15, August, 2020, I record the progess in the weekly folder.  
  I use online material to review C++.  
  You may contact me through :https://www.linkedin.com/in/eddie-yen-a99207169/  
- 以下為每週大概的學習內容，點進去後有更詳細的每日進度說明    
+ 以下為每週大概的學習內容，點進去後有更詳細的每日進度說明和連結      
+ ps:因為要同時準備研究所考試，所以進度沒有很快  
  week1: 程式基本的東西如：＆＆ ！ ？ 、函式    
  https://github.com/rgmmmt4r/CPP_exercise/tree/master/week1  
  week2: if 的基本語法   
@@ -22,7 +23,7 @@
  https://github.com/rgmmmt4r/CPP_exercise/tree/master/week8   
  week9: for 加總   
  https://github.com/rgmmmt4r/CPP_exercise/tree/master/week9    
- week10:  
+ week10:  印出各種三角形、印出1~100間的質數、使用do while 寫提款機、break and continue 的使用  
  https://github.com/rgmmmt4r/CPP_exercise/tree/master/week10  
  
  
