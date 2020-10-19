@@ -39,8 +39,7 @@ https://github.com/rgmmmt4r/CPP_exercise/blob/master/week3/0903/090302.cpp
 0904   
 練習「依序輸入五個正整數 if else 版本」如0904.cpp   
 https://github.com/rgmmmt4r/CPP_exercise/blob/master/week3/0904/0904.cpp   
-以及   
-「判斷是否為偶、奇數或零 if else 版本」如090402.cpp       
+以及「判斷是否為偶、奇數或零 if else 版本」如090402.cpp       
 注意else 放的是if不成立「一定」會做的事情   
 要小心 else 的用法，如090402.cpp中有一個錯誤示範   
 https://github.com/rgmmmt4r/CPP_exercise/blob/master/week3/0904/090402.cpp   
