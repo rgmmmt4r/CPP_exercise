@@ -30,3 +30,4 @@ https://github.com/rgmmmt4r/CPP_exercise/blob/master/week10/1018/101803.png
 1019   
 陣列的宣告細節  
 https://github.com/rgmmmt4r/CPP_exercise/blob/master/week10/1019/1019.cpp  
+https://github.com/rgmmmt4r/CPP_exercise/blob/master/week10/1019/result.png 
