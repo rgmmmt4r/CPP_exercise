@@ -5,7 +5,8 @@ value
 https://github.com/rgmmmt4r/CPP_exercise/blob/master/week1/0815/0815.cpp   
 
 0816   
-https://github.com/rgmmmt4r/CPP_exercise/blob/master/week1/0816/0816.cpp   
+練習標頭檔運作  
+https://github.com/rgmmmt4r/CPP_exercise/blob/master/week1/0816/0816header.cpp
 
 0817   
 https://github.com/rgmmmt4r/CPP_exercise/blob/master/week1/0817/0817.cpp     
