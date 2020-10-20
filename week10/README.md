@@ -31,3 +31,7 @@ https://github.com/rgmmmt4r/CPP_exercise/blob/master/week10/1018/101803.png
 陣列的宣告細節  
 https://github.com/rgmmmt4r/CPP_exercise/blob/master/week10/1019/1019.cpp  
 https://github.com/rgmmmt4r/CPP_exercise/blob/master/week10/1019/result.png 
+1020   
+可以用for宣告和印出陣列    
+https://github.com/rgmmmt4r/CPP_exercise/blob/master/week10/1020/1020.cpp    
+https://github.com/rgmmmt4r/CPP_exercise/blob/master/week10/1020/result.png    
