@@ -4,3 +4,5 @@
 使用陣列和for迴圈   
 https://github.com/rgmmmt4r/CPP_exercise/blob/master/week11/1022.cpp/1022.cpp  
 https://github.com/rgmmmt4r/CPP_exercise/blob/master/week11/1022.cpp/result.png  
+1024   
+表格類型的資料適合使用二維陣列 
