@@ -5,4 +5,11 @@
 https://github.com/rgmmmt4r/CPP_exercise/blob/master/week11/1022.cpp/1022.cpp  
 https://github.com/rgmmmt4r/CPP_exercise/blob/master/week11/1022.cpp/result.png  
 1024   
-表格類型的資料適合使用二維陣列 
+二維陣列的宣告  
+表格類型的資料適合使用二維陣列    
+可以這樣宣告：  
+int Ary[][3]={{1,2,3},{4,5,6}}     
+int Ary[2][2] = {{1}}     
+結果如  
+https://github.com/rgmmmt4r/CPP_exercise/blob/master/week11/1025.cpp/1025.cpp        
+https://github.com/rgmmmt4r/CPP_exercise/blob/master/week11/1025.cpp/result    
