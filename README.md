@@ -25,7 +25,8 @@
  https://github.com/rgmmmt4r/CPP_exercise/tree/master/week9    
  week10:  印出各種三角形、印出1~100間的質數、使用do while 寫提款機、break and continue 的使用  
  https://github.com/rgmmmt4r/CPP_exercise/tree/master/week10  
- 
+ week11:  
+ https://github.com/rgmmmt4r/CPP_exercise/tree/master/week11    
  
 
 
