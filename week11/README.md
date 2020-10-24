@@ -12,4 +12,4 @@ int Ary[][3]={{1,2,3},{4,5,6}}
 int Ary[2][2] = {{1}}     
 結果如  
 https://github.com/rgmmmt4r/CPP_exercise/blob/master/week11/1025.cpp/1025.cpp        
-https://github.com/rgmmmt4r/CPP_exercise/blob/master/week11/1025.cpp/result    
+https://github.com/rgmmmt4r/CPP_exercise/blob/master/week11/1025.cpp/result.png      
