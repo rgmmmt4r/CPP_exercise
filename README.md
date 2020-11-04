@@ -25,7 +25,7 @@
  https://github.com/rgmmmt4r/CPP_exercise/tree/master/week9    
  week10:  印出各種三角形、印出1~100間的質數、使用do while 寫提款機、break and continue 的使用  
  https://github.com/rgmmmt4r/CPP_exercise/tree/master/week10  
- week11:  
+ week11:  輸入一連串分數，找出最小、最大、平均、從小到大的排序、二維陣列的宣告
  https://github.com/rgmmmt4r/CPP_exercise/tree/master/week11    
  
 
